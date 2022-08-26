@@ -10,8 +10,8 @@ export default function Header() {
             <h4 className="job-title">Frontend Developer</h4>
             <p className="header-p">gbwebsite.net</p>
             <div className="btn-container">
-                <a className="btn email-btn">✉ Email</a>
-                <a className="btn linkedin-btn"><i className='fa fa-linkedin-square' color='white' ></i> LinkedIn</a>
+                <a href="gloria_bradford2@yahoo.com"className="btn email-btn">✉ Email</a>
+                <a href="https://www.linkedin.com/in/gloria-bradford-6184271a/" className="btn linkedin-btn"><i className='fa fa-linkedin-square' color='white' ></i> LinkedIn</a>
              </div>
         </div>
              
